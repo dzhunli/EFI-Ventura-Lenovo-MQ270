@@ -1,3 +1,2 @@
 # EFI-Ventura-Lenovo-MQ270
-
-![about](assets/about.jpg)
+<img src="assets/about.jpg" alt="about" width="200" height="100"/>
